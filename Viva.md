@@ -117,6 +117,7 @@ How we measure the performance of Classifiers ?
 What's is info gain ?
 
 What is naive based Classifier ?
+Naïve Bayes classifiers are a family of simple probabilistic classifiers which assume that the effect of an attribute value on a given class is independent of the values of the other attributes. This assumption is called class conditional independence. It is made to simplify the computations involved and, in this sense, is considered “naïve”. In simple terms, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
 
 What is regression ?
 Regression is a statistical measure used in finance, investing and other disciplines that attempts to determine the strength of the relationship between one dependent variable (usually denoted by Y) and a series of other changing variables (known as independent variables). 
